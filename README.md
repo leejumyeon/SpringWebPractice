@@ -1,2 +1,2 @@
-# WebTest
-WebTest(JavaScript, CSS, WebProject...etc)
+# SpringWebPractice
+WebTest(JavaScript, CSS, WebProject...etc) Based Spring
